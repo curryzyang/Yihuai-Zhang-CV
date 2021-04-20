@@ -6,7 +6,7 @@
       <p><b>硕士研究生</b></p>
       <p><b>华南理工大学机械与汽车工程学院</b></p>
       <p><b>邮箱：zhangyh_scut@163.com</b></p>
-      <p><b>地址：广东省广州市天河区五山路381号华南理工大学汽车</b></p>
+      <p><b>地址：广东省广州市天河区五山路381号华南理工大学</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
