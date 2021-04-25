@@ -2,11 +2,12 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张艺怀</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>华南理工大学机械与汽车工程学院</b></p>
-      <p><b>邮箱：zhangyh_scut@163.com</b></p>
-      <p><b>地址：广东省广州市天河区五山路381号华南理工大学</b></p>
+      <h1>Yihuai Zhang</h1>
+      <p><b>master</b></p>
+      <p><b>School of Mechanical & Automotive Engineering,South China University of Technology</b></p>
+      <p><b>Mail：zhangyh_scut@163.com</b></p>
+      <p><b>Phone: +86-15320349176
+      <p><b>Address：381 Wushan Road,Tianhe District, Guangzhou,Guangdong,China</b></p>
     </td>
     <td width="25%">
       <img src="/yhzhang.jpg" width="100%">
@@ -17,17 +18,23 @@
 
 ---
 
-张三，男，四川广元人，热爱生活，热爱运动
+Yihuai Zhang is a very personal man.
 
 ---
 
-### 教育经历
-1. 消息1×××
+### EDUCATIONAL QUALIFICATION
+- **Master** in Vehicle Engineering
+South China University of Technology,Guangzhou,China(2022)
+-**BSc** in Vehicle Engineering
+Southwest University,Chongqing,China(2019)
 
-### 论文成果
-1. EI论文
+### Journal Papers
+- **Zhang, Y.**,Shi, B.,Hu, X.'Low-speed vehicle path-tracking algorithm based on model predictive control using QPKWIK solver.' ASME J. Dyn. Sys., Meas., Control.(Under Review)
 
-### 项目实习经历
+### Conference Papers
+- **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
+
+### Project & internship experience
 - 文本挖掘
 - 知识图谱
 
