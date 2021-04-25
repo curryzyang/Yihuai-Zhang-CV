@@ -33,7 +33,7 @@ Yihuai Zhang is a very personal man.
 - **Zhang, Y.**,Shi, B.,Hu, X.'Low-speed vehicle path-tracking algorithm based on model predictive control using QPKWIK solver.' ASME J. Dyn. Sys., Meas., Control.(Under Review)
 - **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
 
-## Project & Internship experience
+## Project & Internship Experience
 - ***Project Management Intern in Guangzhou Xiaopeng MOTORS Technology Co.,Ltd.(2020.11-2021.04)***
 - I promote the progress of the company’s projects and ensure that 3 projects are implemented quickly to meet the needs of rapid iteration
 - I am responsible for the automatic driving certificate activation project, and completed the internal OTA upgrade for 40 users and the experience upgrade for 10 new users
