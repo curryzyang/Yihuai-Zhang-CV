@@ -25,10 +25,8 @@ Yihuai Zhang is a very personal man.
 
 
 ### EDUCATIONAL QUALIFICATION
-- **Master** in Vehicle Engineering(2022)
-  South China University of Technology,Guangzhou,China
-- **BSc** in Vehicle Engineering(2019)
-  Southwest University,Chongqing,China
+- **Master** in Vehicle Engineering(2022)<br />South China University of Technology,Guangzhou,China
+- **BSc** in Vehicle Engineering(2019)<br />Southwest University,Chongqing,China
 
 ### Journal Papers
 - **Zhang, Y.**,Shi, B.,Hu, X.'Low-speed vehicle path-tracking algorithm based on model predictive control using QPKWIK solver.' ASME J. Dyn. Sys., Meas., Control.(Under Review)
