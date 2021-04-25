@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Yihuai Zhang</h1>
-      <p><b>master</b></p>
+      <p><b>Master</b></p>
       <p><b>School of Mechanical & Automotive Engineering,South China University of Technology</b></p>
       <p><b>Mail：zhangyh_scut@163.com</b></p>
       <p><b>Phone: +86-15320349176
