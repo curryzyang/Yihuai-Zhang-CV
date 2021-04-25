@@ -36,16 +36,16 @@ Yihuai Zhang is a very personal man.
 - **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
 
 ## Project & Internship experience
-- *Project Management Intern in Guangzhou Xiaopeng MOTORS Technology Co.,Ltd.(2020.11-2021.04)*
+- ***Project Management Intern in Guangzhou Xiaopeng MOTORS Technology Co.,Ltd.(2020.11-2021.04)***
 - I promote the progress of the company’s projects and ensure that 3 projects are implemented quickly to meet the needs of rapid iteration
 - I am responsible for the automatic driving certificate activation project, and completed the internal OTA upgrade for 40 users and the experience upgrade for 10 new users
 - I assist in the implementation of the robotaxi project, complete the preliminary project, help formulate technical requirements and plans, and determine suppliers
 
-- *Tianchi Competition: Street View Character Encoding Recognition*  **Rank:First 5%**
+- ***Tianchi Competition: Street View Character Encoding Recognition***  **Rank:First 5%**
 - Using character recognition in computer vision as the background to predict character recognition in real scenes,I use CNN for fixed-length character classification and a pre-trained network for training on the data set.Finally, use Pytorch to complete model parameter adjustment and algorithm optimization to meet the recognition accuracy requirements
 
 ## Campus Experience
-- *President of the student union of College of Engineering and Technology of Southwest University*
+- ***President of the student union of College of Engineering and Technology of Southwest University***
 - Planning and hosting the National College Student Intelligent Agricultural Equipment Innovation Competition, I am mainly responsible for docking more than 600 contestants from 46 universities across the country, and responsible for the arrangement of 200 volunteers
 - Won the outstanding student union (4/33), advanced unit of sports activities (10/33, ranked first)
 - The food science popularization and safety public welfare competition we organized, with 70w+ live page views, No. 1 in the local hot search on Weibo, and reported by mainstream media on Xinhuanet and Sohu.com
