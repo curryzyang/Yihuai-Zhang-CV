@@ -34,9 +34,11 @@ Yihuai Zhang is a very personal man.
 ### Conference Papers
 - **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
 
-### Project & internship experience
-- 文本挖掘
-- 知识图谱
+### Project & Internship experience
+- **Project Management Intern in Guangzhou Xiaopeng MOTORS Technology Co.,Ltd.**
+- I promote the progress of the company’s projects and ensure that 3 projects are implemented quickly to meet the needs of rapid iteration
+- I am responsible for the automatic driving certificate activation project, and completed the internal OTA upgrade for 40 users and the experience upgrade for 10 new users
+- I assist in the implementation of the robotaxi project, complete the preliminary project, help formulate technical requirements and plans, and determine suppliers
 
 ### 校园经历
 - 奖学金
