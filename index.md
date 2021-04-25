@@ -11,7 +11,7 @@
       <p><b>Address：381 Wushan Road,Tianhe District, Guangzhou,Guangdong,China</b></p>
     </td>
     <td width="25%">
-      <img src="/yhzhang.jpg" width="100%">
+      <img src="https://github.com/curryzyang/Yihuai-Zhang-CV/blob/master/yhzhang.jpg/yhzhang.jpg" width="100%">
     </td>
   </tr>
 </table>
