@@ -24,23 +24,23 @@ Yihuai Zhang is a very personal man.
 ---
 
 
-### EDUCATIONAL QUALIFICATION
+## EDUCATIONAL QUALIFICATION
 - **Master** in Vehicle Engineering(2022)<br />South China University of Technology,Guangzhou,China
 - **BSc** in Vehicle Engineering(2019)<br />Southwest University,Chongqing,China
 
-### Journal Papers
+## Journal Papers
 - **Zhang, Y.**,Shi, B.,Hu, X.'Low-speed vehicle path-tracking algorithm based on model predictive control using QPKWIK solver.' ASME J. Dyn. Sys., Meas., Control.(Under Review)
 
-### Conference Papers
+## Conference Papers
 - **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
 
-### Project & Internship experience
+## Project & Internship experience
 - **Project Management Intern in Guangzhou Xiaopeng MOTORS Technology Co.,Ltd.**
 - I promote the progress of the company’s projects and ensure that 3 projects are implemented quickly to meet the needs of rapid iteration
 - I am responsible for the automatic driving certificate activation project, and completed the internal OTA upgrade for 40 users and the experience upgrade for 10 new users
 - I assist in the implementation of the robotaxi project, complete the preliminary project, help formulate technical requirements and plans, and determine suppliers
 
-### 校园经历
+## 校园经历
 - 奖学金
 - 荣誉称号
 - 比赛获奖
