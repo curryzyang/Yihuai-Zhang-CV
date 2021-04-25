@@ -27,7 +27,7 @@ Yihuai Zhang is a very personal man.
 ### EDUCATIONAL QUALIFICATION
 - Master in Vehicle Engineering
 South China University of Technology,Guangzhou,China(2022)
--BSc in Vehicle Engineering
+- BSc in Vehicle Engineering
 Southwest University,Chongqing,China(2019)
 
 ### Journal Papers
