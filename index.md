@@ -6,7 +6,7 @@
       <p><b>Master</b></p>
       <p><b>School of Mechanical & Automotive Engineering,South China University of Technology</b></p>
       <p><b>Mail：zhangyh_scut@163.com</b></p>
-      <p><b>Phone: +86-15320349176
+      <p><b>Phone: +86-15320349176</b></p>
       <p><b>Address：381 Wushan Road,Tianhe District, Guangzhou,Guangdong,China</b></p>
     </td>
     <td width="25%">
