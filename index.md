@@ -30,6 +30,12 @@
 - **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
 
 ## Project & Internship Experience
+
+- ***Project Management Intern in Alibaba Group.(2021.06-2021.08)***
+- I am the No. 1 position of the project delivery, coordinating the customer and the outsourcing and original factory team. I am responsible for the successful delivery of the project
+- I participated in the data middle station project of a certain MCN company, from 0 to 1 to complete the establishment of the data middle station and the business middle station. Finally got the project delivery case
+- I participate in the service quality improvement project of the company's internal customer service team, and improve the service quality of the customer service team through customer portraits, algorithm optimization, and precise matching
+
 - ***Project Management Intern in Guangzhou Xiaopeng MOTORS Technology Co.,Ltd.(2020.11-2021.04)***
 - I promote the progress of the company’s projects and ensure that 3 projects are implemented quickly to meet the needs of rapid iteration
 - I am responsible for the automatic driving certificate activation project, and completed the internal OTA upgrade for 40 users and the experience upgrade for 10 new users
