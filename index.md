@@ -76,4 +76,5 @@
 - Familiar with Python,PyTorch
 
 ## Self-evaluation
-- I am an optimistic person and feel very excited about the emergence of new things and new ideas. I can set goals with others and accomplish them through the power of the team. I often play the role of leader in the team. My main research interest is motion planning and control, and I have an understanding of environment perception, deep learning, operations research, and optimization theory.
+ I am an optimistic person and feel very excited about the emergence of new things and new ideas. I can set goals with others and accomplish them through the power of the team. I often play the role of leader in the team. 
+ My main research interest is motion planning and control, and I have an understanding of environment perception, deep learning, operations research, and optimization theory.
