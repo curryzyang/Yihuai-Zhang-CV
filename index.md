@@ -51,6 +51,7 @@
 - Planning and hosting the National College Student Intelligent Agricultural Equipment Innovation Competition, I am mainly responsible for docking more than 600 contestants from 46 universities across the country, and responsible for the arrangement of 200 volunteers
 - Won the outstanding student union (4/33), advanced unit of sports activities (10/33, ranked first)
 - The food science popularization and safety public welfare competition we organized, with 70w+ live page views, No. 1 in the local hot search on Weibo, and reported by mainstream media on Xinhuanet and Sohu.com
+ 
  ***Part-time Counselor of School of Mechanical and Automotive Engineering of SCUT***
 - Responsible for postgraduate ideological and political education, assisted in holding 5 psychological counseling lectures, a total of 1,500 people participated in the activity
 - Responsible for the employment of graduate students, held 3 employment seminars, and 800 students participated in the activities
