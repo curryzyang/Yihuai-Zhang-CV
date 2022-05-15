@@ -71,7 +71,7 @@
 - Men’s Basketball League Champion of South China University of Technology, men's basketball league champion of Southwest University
 
 ## Skills
-- CET-6(508)
+- IELTS(7.0), CET-6(508) 
 - Familiar with MATLAB,Carsim
 - Familiar with Python,PyTorch
 
