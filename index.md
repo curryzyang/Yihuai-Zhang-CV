@@ -26,7 +26,7 @@
 - **B.Eng** in Vehicle Engineering(2019)<br />Southwest University,Chongqing,China
 
 ## Research Papers
-- **Zhang, Y.**,Shi, B.,Hu, X.'Low-speed vehicle path-tracking algorithm based on model predictive control using QPKWIK solver.' ASME J. Dyn. Sys., Meas., Control.(Accepted)
+- **Zhang, Y**., Shi, B., Hu, X., and Ai, W. (September 13, 2021). ”Low-Speed Vehicle Path-Tracking Algorithm Based on Model Predictive Control Using QPKWIK Solver.” ASME. J. Dyn. Sys., Meas., Control. December 2021; 143(12):121003. https://doi.org/10.1115/1.4051645
 - **Y. H. Zhang**, B. J. Shi, and J. B. Zhong, "Multi-parameter joint optimization of self-piercing riveting on aluminum alloy plate," in 2020 International Conference on Internet of Things, Artificial Intelligence and Mechanical Automation, IoTAIMA 2020, July 10, 2020 - July 12, 2020, Hangzhou, China, 2020, vol. 1605: Institute of Physics Publishing.
 
 ## Project & Internship Experience
